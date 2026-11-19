@@ -1,0 +1,3 @@
+Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],observed_label,predicted_probability
+M,299.3,309.3,1471,46.0,42,0,0.0
+L,303.3,311.3,1350,48.1,32,1,0.9191087782251586

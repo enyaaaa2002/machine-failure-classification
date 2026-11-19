@@ -1,0 +1,3 @@
+﻿model,accuracy,precision_failure,recall_failure,f1_failure,pr_auc_average_precision
+Always predict normal (baseline),0.966,0.0,0.0,0.0,0.034
+Random Forest,0.982,0.82,0.6029,0.6949,0.7511

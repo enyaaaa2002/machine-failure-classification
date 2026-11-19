@@ -1,0 +1,24 @@
+{
+  "source": "UCI AI4I 2020, dataset #601; synthetic manufacturing data",
+  "samples": 10000,
+  "normal": 9661,
+  "failures": 339,
+  "train_samples": 8000,
+  "test_samples": 2000,
+  "features": [
+    "Type",
+    "Air temperature [K]",
+    "Process temperature [K]",
+    "Rotational speed [rpm]",
+    "Torque [Nm]",
+    "Tool wear [min]"
+  ],
+  "excluded_failure_modes": [
+    "TWF",
+    "HDF",
+    "PWF",
+    "OSF",
+    "RNF"
+  ],
+  "note": "Classifies concurrent failure status, not remaining useful life or future-failure time."
+}
